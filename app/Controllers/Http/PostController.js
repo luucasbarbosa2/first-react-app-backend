@@ -1,5 +1,5 @@
 'use strict'
-
+//este é um teste
 
 const Post = use('App/Models/Post')
 
